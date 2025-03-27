@@ -1,0 +1,9 @@
+*.pdf
+*.odt
+.DS_Store
+Thumbs.db
+*.bak
+*.~lock.*
+.vscode/
+.idea/
+*.log
