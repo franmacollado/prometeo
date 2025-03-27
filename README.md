@@ -5,11 +5,11 @@
 
 Se compone de un fichero .fodt. Los ficheros de dicho formato se pueden abrir, modificar e imprimir con [LibreOffice](https://es.libreoffice.org/).
 
-Su uso es sencillo. En la primera columna de la tabla el estudiante debe marcar aquellos temas que se va a preparar. Cada ocasión en que se repase un tema debe marcar dicha interacción, llamada "iteración", en la tabla. Esto le permitirá llevar un control sobre cuanto esfuerzo ha dedicado a cada tema y su progreso. Las primeras 6 iteraciones de cada tema se consideran preparatorias, y su objetivo es el de comprender y sintetizar el tema.
+Su uso es sencillo. En la primera columna de la tabla el estudiante debe marcar aquellos temas que se va a preparar. Cada ocasión en que se repase un tema debe marcar dicha interacción, llamada *iteración*, en la tabla. Esto le permitirá llevar un control sobre cuanto esfuerzo ha dedicado a cada tema y su progreso. Las primeras 6 iteraciones de cada tema se consideran preparatorias, y su objetivo es el de comprender y sintetizar el tema.
 
 Dado que **PROMETEO** se distribuye en un formato editable se puede adaptar a las necesidades de cada estudiante. Por ejemplo:
 - Se puede adaptar la cantidad y objetivos de las primeras iteraciones.
 - Se puede aumentar o reducir la cantidad de temas del que consta el temario.
 - Etc.
 
-PROMETEO es una invención de [Franma Collado](https://franmacolla.do/) y se distribuye bajo [licencia CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es).
+**PROMETEO** es una invención de [Franma Collado](https://franmacolla.do/) y se distribuye bajo [licencia CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es).
